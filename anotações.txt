@@ -1,7 +1,7 @@
-# Meus objetivos no curso
--Programar com mais facilidade em varias stacks diferentes, me aprofundando em tipos diferentes de desenvolvimento
+Meus objetivos no curso
+1 -Programar com mais facilidade em varias stacks diferentes, me aprofundando em tipos diferentes de desenvolvimento
 
--Também gostaria de poder ter a habilidade de conseguir analisar pedidos de clientes e conseguir transformar em um projeto viável.
+2 -Também gostaria de poder ter a habilidade de conseguir analisar pedidos de clientes e conseguir transformar em um projeto viável.
 
--E no mais, gostaria de aumentar as minhas habilidades em códigos avançados para me profissionalizar rápidamente e me lapidar como full-stack forte.
+3 -E no mais, gostaria de aumentar as minhas habilidades em códigos avançados para me profissionalizar rápidamente e me lapidar como full-stack forte.
 
