@@ -1,6 +1,7 @@
-1- Eu gostaria de aprender nessa matéria a como me profissionalizar para conseguir codar de forma prática, para trabalhar na área.
+# Meus objetivos no curso
+-Programar com mais facilidade em varias stacks diferentes, me aprofundando em tipos diferentes de desenvolvimento
 
-2- também gostaria de poder ter a habilidade de conseguir analisar pedidos de clientes e conseguir transformar em um projeto viável.
+-Também gostaria de poder ter a habilidade de conseguir analisar pedidos de clientes e conseguir transformar em um projeto viável.
 
-3- e no mais, gostaria de aumentar as minhas habilidades em códigos avançados para me profissionalizar rápidamente e me lapidar como full-stack forte.
+-E no mais, gostaria de aumentar as minhas habilidades em códigos avançados para me profissionalizar rápidamente e me lapidar como full-stack forte.
 
